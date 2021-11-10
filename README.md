@@ -1,7 +1,9 @@
 # Memory Game with Ping Pong the Animation Characters
 
+DEMO: https://www.youtube.com/watch?v=DYbYsHzvKlY
+
 started: 10/27/2021
-ended:
+ended: 11/09/2021
 
 # Plan
 
