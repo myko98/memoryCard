@@ -1,0 +1,29 @@
+img {
+    transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(1.05)
+}
+
+.card {
+    text-align: center;
+    
+}
+
+.info {
+    height: 150px;
+    background-color: white;
+    margin: 10px 10px;
+}
+
+.description {
+    padding: 12px;
+}
+
+
+@media only screen and (max-width: 1280px) {
+  .info {
+      width: 250px;
+  }
+}
