@@ -1,5 +1,8 @@
 # Memory Game with Ping Pong the Animation Characters
 
+![image](https://user-images.githubusercontent.com/24720939/179042965-9a5ad713-a969-4fe6-ab81-bd52f0f1e506.png)
+
+
 DEMO: https://www.youtube.com/watch?v=DYbYsHzvKlY
 
 started: 10/27/2021
